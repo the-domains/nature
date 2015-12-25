@@ -1,12 +1,24 @@
-layout_spectrum: 0.3825273
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.7361185
 color:
   saturation: 0.3410311
-  brandStrength: 0.2142857
-  lightness: 0
+  lightness: 0.707304
+  brandStrength: 0
   brandColors:
     - '#4B2F02'
     - '#E9A243'
     - '#FFCE66'
   rhythmicContrast: 0.9693877
-typography_spectrum: 0.7361185
+layout_spectrum: 1
 name: Nature
