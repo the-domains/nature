@@ -1,0 +1,12 @@
+layout_spectrum: 0.3825273
+color:
+  saturation: 0.3410311
+  brandStrength: 0.2142857
+  lightness: 0
+  brandColors:
+    - '#4B2F02'
+    - '#E9A243'
+    - '#FFCE66'
+  rhythmicContrast: 0.9693877
+typography_spectrum: 0.7361185
+name: Nature
