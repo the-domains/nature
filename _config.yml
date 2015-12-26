@@ -1,3 +1,7 @@
+name: Nature
+favicon: null
+layout_spectrum: 0.5138
+typography_spectrum: 0.7361185
 collections:
   - index:
       path: /
@@ -10,15 +14,25 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7361185
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3410311
-  lightness: 0.707304
-  brandStrength: 0
   brandColors:
     - '#4B2F02'
     - '#E9A243'
     - '#FFCE66'
+  brandStrength: 0
+  lightness: 0.707304
+  saturation: 0.3410311
   rhythmicContrast: 0.9693877
-layout_spectrum: 1
-name: Nature
+purpose: []
