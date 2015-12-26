@@ -1,7 +1,7 @@
 name: Nature
 favicon: null
 layout_spectrum: 0.5138
-typography_spectrum: 0.7361185
+typography_spectrum: 0.57588
 collections:
   - index:
       path: /
