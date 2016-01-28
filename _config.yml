@@ -1,38 +1,40 @@
-name: Nature
 favicon: null
-layout_spectrum: 0.25853
-typography_spectrum: 0.57588
+name: Nature
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+purpose: []
+color:
+  saturation: 0.3410311
+  brandStrength: 0
+  rhythmicContrast: 0.9693877
+  brandColors:
+    - '#FFFFFF'
+    - '#262721'
+    - '#A36E5C'
+    - '#6F4B3A'
+    - '#ABA391'
+  lightness: 0.7567132
+typography_spectrum: 0.5515575
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+layout_spectrum: 0.9973147
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#4B2F02'
-    - '#E9A243'
-    - '#FFCE66'
-  brandStrength: 0
-  lightness: 0.707304
-  saturation: 0.3410311
-  rhythmicContrast: 0.9693877
-purpose: []
