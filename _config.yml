@@ -1,5 +1,4 @@
-favicon: null
-name: Nature
+layout_spectrum: 0.9994629
 opengraph:
   image: null
   type: null
@@ -10,12 +9,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.3410311
@@ -28,13 +27,14 @@ color:
     - '#6F4B3A'
     - '#ABA391'
   lightness: 0.7567132
-typography_spectrum: 0.5515575
+typography_spectrum: 0.8050483
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Nature
